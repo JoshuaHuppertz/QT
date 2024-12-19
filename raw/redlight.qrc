@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="redlight">
+    <file>redlight.png</file>
+  </qresource>
+</RCC>

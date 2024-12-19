@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="greenlight">
+    <file>greenlight.png</file>
+  </qresource>
+</RCC>
