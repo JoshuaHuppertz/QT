@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="map_green">
+    <file>map_green.png</file>
+  </qresource>
+</RCC>
